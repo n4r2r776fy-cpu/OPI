@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\\u041E\u041F\u0406\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{660F79E7-B3CC-44B4-97B7-9601B81FBE1E}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u043E\u043F\u0456\\consoleapp1\\consoleapp1\\shemasql.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{660F79E7-B3CC-44B4-97B7-9601B81FBE1E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\shemasql.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{660F79E7-B3CC-44B4-97B7-9601B81FBE1E}|ConsoleApp1\\ConsoleApp1.csproj|D:\\\u041E\u041F\u0406\\ConsoleApp1\\consoleapp1\\deployment.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{660F79E7-B3CC-44B4-97B7-9601B81FBE1E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\deployment.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660F79E7-B3CC-44B4-97B7-9601B81FBE1E}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u043E\u043F\u0456\\consoleapp1\\consoleapp1\\shemasql.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{660F79E7-B3CC-44B4-97B7-9601B81FBE1E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\shemasql.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{660F79E7-B3CC-44B4-97B7-9601B81FBE1E}|ConsoleApp1\\ConsoleApp1.csproj|D:\\\u041E\u041F\u0406\\ConsoleApp1\\consoleapp1\\brd.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
@@ -125,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "shemasql.sql",
               "DocumentMoniker": "D:\\\u041E\u041F\u0406\\ConsoleApp1\\ConsoleApp1\\shemasql.sql",
               "RelativeDocumentMoniker": "ConsoleApp1\\shemasql.sql",
@@ -138,13 +138,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DEPLOYMENT.md",
               "DocumentMoniker": "D:\\\u041E\u041F\u0406\\ConsoleApp1\\ConsoleApp1\\DEPLOYMENT.md",
               "RelativeDocumentMoniker": "ConsoleApp1\\DEPLOYMENT.md",
               "ToolTip": "D:\\\u041E\u041F\u0406\\ConsoleApp1\\ConsoleApp1\\DEPLOYMENT.md",
               "RelativeToolTip": "ConsoleApp1\\DEPLOYMENT.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-12-04T15:19:22.079Z",
               "EditorCaption": ""
