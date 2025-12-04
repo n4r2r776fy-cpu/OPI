@@ -49,7 +49,6 @@
     <None Include="App.config" />
     <Content Include="image.png" />
     <Content Include="shemasql.sql" />
-    <None Include="DEPLOYMENT.md" />
     <None Include="NFR.md" />
     <None Include="BRD.md" />
     <None Include="SpaceMissionsProject.csproj" />
