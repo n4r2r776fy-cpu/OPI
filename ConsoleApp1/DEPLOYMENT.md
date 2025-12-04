@@ -1,34 +1,33 @@
-# Deployment Guide — Space Missions DB
+# Deployment Guide — Space Missions Database
 
-## 1. Overview
-Цей документ описує повний процес розгортання бази даних “Space Missions DB” у середовищі MySQL.
-
----
-
-# 2. System Requirements
-
-## 2.1. Software
-- MySQL Server **8.x**
-- MySQL Workbench / DBeaver / phpMyAdmin (будь-який клієнт)
-- Git (опціонально, якщо використовуєш репозиторій)
-
-## 2.2. Hardware
-- 2 GB RAM або більше  
-- 200 MB вільного місця  
-
-## 2.3. Permissions
-Потрібен користувач MySQL з правами:
-- CREATE DATABASE  
-- CREATE TABLE  
-- INSERT / SELECT / UPDATE / DELETE  
+Цей документ описує повний процес встановлення, імпорту та запуску проєкту бази даних космічних місій у середовищі MySQL.
 
 ---
 
-# 3. Installation Steps
+## 1. Необхідне програмне забезпечення
+- **MySQL Server 8.x**
+- **MySQL Workbench**, phpMyAdmin або DBeaver
+- **XAMPP** (опціонально)
+- Права MySQL-користувача:
+  - CREATE DATABASE
+  - CREATE TABLE
+  - INSERT, UPDATE, DELETE, SELECT
 
-## 3.1. Step 1 — Clone or Download Project
+---
 
-### Варіант 1: Git clone
-```bash
-git clone https://github.com/your-username/space-missions-db.git
-cd space-missions-db
+## 2. Підготовка середовища
+1. Встановити MySQL Server / XAMPP.
+2. Переконатися, що MySQL-сервер активний.
+3. Відкрити MySQL Workbench або інший SQL-клієнт.
+
+---
+
+## 3. Створення Бази Даних
+
+Виконати в MySQL:
+
+---
+
+sql
+CREATE DATABASE space_missions_db;
+USE space_missions_db;

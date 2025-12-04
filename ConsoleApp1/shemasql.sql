@@ -1,4 +1,4 @@
-CREATE DATABASE IF NOT EXISTS space_missions_db;
+REATE DATABASE IF NOT EXISTS space_missions_db;
 USE space_missions_db;
 
 -- 1. Таблиця місій
