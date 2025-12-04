@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041E\u041F\u0406\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{660F79E7-B3CC-44B4-97B7-9601B81FBE1E}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u043E\u043F\u0456\\consoleapp1\\consoleapp1\\brd.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{660F79E7-B3CC-44B4-97B7-9601B81FBE1E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\brd.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660F79E7-B3CC-44B4-97B7-9601B81FBE1E}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u043E\u043F\u0456\\consoleapp1\\consoleapp1\\deployment.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{660F79E7-B3CC-44B4-97B7-9601B81FBE1E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\deployment.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660F79E7-B3CC-44B4-97B7-9601B81FBE1E}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u043E\u043F\u0456\\consoleapp1\\consoleapp1\\nfr.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{660F79E7-B3CC-44B4-97B7-9601B81FBE1E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\nfr.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660F79E7-B3CC-44B4-97B7-9601B81FBE1E}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u043E\u043F\u0456\\consoleapp1\\consoleapp1\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{660F79E7-B3CC-44B4-97B7-9601B81FBE1E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660F79E7-B3CC-44B4-97B7-9601B81FBE1E}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u043E\u043F\u0456\\consoleapp1\\consoleapp1\\shemasql.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{660F79E7-B3CC-44B4-97B7-9601B81FBE1E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\shemasql.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660F79E7-B3CC-44B4-97B7-9601B81FBE1E}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u043E\u043F\u0456\\consoleapp1\\consoleapp1\\vision document.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{660F79E7-B3CC-44B4-97B7-9601B81FBE1E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\vision document.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660F79E7-B3CC-44B4-97B7-9601B81FBE1E}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u043E\u043F\u0456\\consoleapp1\\consoleapp1\\spacemissionsproject.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{660F79E7-B3CC-44B4-97B7-9601B81FBE1E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\spacemissionsproject.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660F79E7-B3CC-44B4-97B7-9601B81FBE1E}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u043E\u043F\u0456\\consoleapp1\\consoleapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{660F79E7-B3CC-44B4-97B7-9601B81FBE1E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660F79E7-B3CC-44B4-97B7-9601B81FBE1E}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u043E\u043F\u0456\\consoleapp1\\consoleapp1\\image.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{660F79E7-B3CC-44B4-97B7-9601B81FBE1E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\image.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660F79E7-B3CC-44B4-97B7-9601B81FBE1E}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u043E\u043F\u0456\\consoleapp1\\consoleapp1\\shemasql.sql||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{660F79E7-B3CC-44B4-97B7-9601B81FBE1E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\shemasql.sql||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpaceMissionsProject.csproj",
+              "DocumentMoniker": "D:\\\u041E\u041F\u0406\\ConsoleApp1\\ConsoleApp1\\SpaceMissionsProject.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1\\SpaceMissionsProject.csproj",
+              "ToolTip": "D:\\\u041E\u041F\u0406\\ConsoleApp1\\ConsoleApp1\\SpaceMissionsProject.csproj",
+              "RelativeToolTip": "ConsoleApp1\\SpaceMissionsProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-04T15:39:24.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\\u041E\u041F\u0406\\ConsoleApp1\\ConsoleApp1\\App.config",
+              "RelativeDocumentMoniker": "ConsoleApp1\\App.config",
+              "ToolTip": "D:\\\u041E\u041F\u0406\\ConsoleApp1\\ConsoleApp1\\App.config",
+              "RelativeToolTip": "ConsoleApp1\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-04T15:38:57.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\\u041E\u041F\u0406\\ConsoleApp1\\ConsoleApp1\\README.md",
+              "RelativeDocumentMoniker": "ConsoleApp1\\README.md",
+              "ToolTip": "D:\\\u041E\u041F\u0406\\ConsoleApp1\\ConsoleApp1\\README.md",
+              "RelativeToolTip": "ConsoleApp1\\README.md",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-12-04T15:36:32.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "image.png",
+              "DocumentMoniker": "D:\\\u041E\u041F\u0406\\ConsoleApp1\\ConsoleApp1\\image.png",
+              "RelativeDocumentMoniker": "ConsoleApp1\\image.png",
+              "ToolTip": "D:\\\u041E\u041F\u0406\\ConsoleApp1\\ConsoleApp1\\image.png",
+              "RelativeToolTip": "ConsoleApp1\\image.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-04T15:36:03.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NFR.md",
+              "DocumentMoniker": "D:\\\u041E\u041F\u0406\\ConsoleApp1\\ConsoleApp1\\NFR.md",
+              "RelativeDocumentMoniker": "ConsoleApp1\\NFR.md",
+              "ToolTip": "D:\\\u041E\u041F\u0406\\ConsoleApp1\\ConsoleApp1\\NFR.md",
+              "RelativeToolTip": "ConsoleApp1\\NFR.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-12-04T15:25:39.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BRD.md",
+              "DocumentMoniker": "D:\\\u041E\u041F\u0406\\ConsoleApp1\\ConsoleApp1\\BRD.md",
+              "RelativeDocumentMoniker": "ConsoleApp1\\BRD.md",
+              "ToolTip": "D:\\\u041E\u041F\u0406\\ConsoleApp1\\ConsoleApp1\\BRD.md",
+              "RelativeToolTip": "ConsoleApp1\\BRD.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-12-04T15:18:30.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "shemasql.sql",
+              "DocumentMoniker": "D:\\\u041E\u041F\u0406\\ConsoleApp1\\ConsoleApp1\\shemasql.sql",
+              "RelativeDocumentMoniker": "ConsoleApp1\\shemasql.sql",
+              "ToolTip": "D:\\\u041E\u041F\u0406\\ConsoleApp1\\ConsoleApp1\\shemasql.sql",
+              "RelativeToolTip": "ConsoleApp1\\shemasql.sql",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-04T15:19:47.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DEPLOYMENT.md",
+              "DocumentMoniker": "D:\\\u041E\u041F\u0406\\ConsoleApp1\\ConsoleApp1\\DEPLOYMENT.md",
+              "RelativeDocumentMoniker": "ConsoleApp1\\DEPLOYMENT.md",
+              "ToolTip": "D:\\\u041E\u041F\u0406\\ConsoleApp1\\ConsoleApp1\\DEPLOYMENT.md",
+              "RelativeToolTip": "ConsoleApp1\\DEPLOYMENT.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-12-04T15:19:22.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vision Document.md",
+              "DocumentMoniker": "D:\\\u041E\u041F\u0406\\ConsoleApp1\\ConsoleApp1\\Vision Document.md",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Vision Document.md",
+              "ToolTip": "D:\\\u041E\u041F\u0406\\ConsoleApp1\\ConsoleApp1\\Vision Document.md",
+              "RelativeToolTip": "ConsoleApp1\\Vision Document.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-12-04T15:16:13.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "shemasql.sql",
+              "DocumentMoniker": "D:\\\u041E\u041F\u0406\\ConsoleApp1\\ConsoleApp1\\shemasql.sql",
+              "RelativeDocumentMoniker": "ConsoleApp1\\shemasql.sql",
+              "ToolTip": "D:\\\u041E\u041F\u0406\\ConsoleApp1\\ConsoleApp1\\shemasql.sql",
+              "RelativeToolTip": "ConsoleApp1\\shemasql.sql",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-04T15:16:32.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

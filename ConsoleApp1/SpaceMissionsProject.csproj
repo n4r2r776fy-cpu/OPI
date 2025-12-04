@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<!-- Тип виводу -->
+		<OutputType>Exe</OutputType>
+
+		<!-- Цільовий фреймворк -->
+		<TargetFramework>net9.0</TargetFramework>
+
+		<!-- Неявне використання (вмикнути/вимкнути) -->
+		<ImplicitUsings>enable</ImplicitUsings>
+
+		<!-- Null-доступ (увімкнути/вимкнути) -->
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+</Project>
